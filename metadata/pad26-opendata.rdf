@@ -35,7 +35,7 @@
         <dcatapit:Agent rdf:about="DTD">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:publisher>
@@ -85,7 +85,7 @@
     <dct:rightsHolder>
         <dcatapit:Agent rdf:about="DTD">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:rightsHolder>
@@ -94,7 +94,7 @@
         <dcatapit:Agent rdf:about="DTD">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:publisher>
@@ -143,7 +143,7 @@
     <dct:rightsHolder>
         <dcatapit:Agent rdf:about="DTD">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:rightsHolder>
@@ -152,7 +152,7 @@
         <dcatapit:Agent rdf:about="DTD">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:publisher>
@@ -201,7 +201,7 @@
     <dct:rightsHolder>
         <dcatapit:Agent rdf:about="PCM">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:rightsHolder>
@@ -210,7 +210,7 @@
         <dcatapit:Agent rdf:about="PCM">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:publisher>
@@ -366,14 +366,14 @@
     <skos:prefLabel xml:lang="it">ripartizione del finanziamento dell'UE</skos:prefLabel>
 </skos:Concept>
 
-<dcatapit:Organization rdf:about="https://padigitale2026.gov.it/opendata">
+<dcatapit:Organization rdf:about="https://padigitale2026.gov.it/">
     <rdf:type rdf:resource="vcard:Organization"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
     <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
     <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
     <rdf:type rdf:resource="vcard:Kind"/>
     <vcard:fn>PCM - Dipartimento per la Trasformazione Digitale</vcard:fn>
-    <vcard:hasEmail rdf:resource="mailto:info@padigitale2026.gov.it"/>
-    <vcard:hasURL rdf:resource="https://padigitale2026.gov.it/opendata"/>
+    <vcard:hasEmail rdf:resource="info@padigitale2026.gov.it"/>
+    <vcard:hasURL rdf:resource="https://padigitale2026.gov.it/"/>
 </dcatapit:Organization>
 </rdf:RDF>
